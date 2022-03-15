@@ -1,3 +1,5 @@
 # Don't commit health data
 samsunghealth*
 apple_health_export*
+
+node_modules
