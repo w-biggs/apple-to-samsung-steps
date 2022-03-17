@@ -4,7 +4,7 @@
   "description": "A tool to help you convert your Apple Health steps data to Samsung Health steps data",
   "main": "index.js",
   "repository": "git@github.com:w-biggs/apple-to-samsung-steps.git",
-  "author": "W Biggs <wilson@wilsonbiggs.com>",
+  "author": "W Biggs",
   "license": "MIT",
   "private": true,
   "type": "module",
